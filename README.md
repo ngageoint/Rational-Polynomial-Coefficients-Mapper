@@ -1,5 +1,5 @@
 # Rational-Polynomial-Coefficients-Mapper
-C++ class that uses RPC coefficients to map an object space coordinate represented in Latitude, Longitude, and Altitude to a sensor position represented in X,Y.
+C++ class that uses RPC coefficients to map an object's space coordinates represented in Latitude, Longitude, and Altitude to a sensor position represented in X,Y.
 
 RPCs are used to help us understand where an object we are taking a picture of  - the Washington Monument for example - can be found in the image after it has been taken i.e. which pixel you should look at if you want to see the Washington Monument in the image (pixel 506 in the x direction and 364 in the y direction for example).
 
