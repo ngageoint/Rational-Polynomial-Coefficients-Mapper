@@ -7,6 +7,7 @@ The code is well documented both inline and in the documentation files in this r
 
 ![RPCs Explained] (https://github.com/ngageoint/Rational-Polynomial-Coefficients-Mapper/blob/master/RPCsExplained.png)
 
+##Origin
 The RPC software was developed at the National Geospatial-Intelligence Agency (NGA) in collaboration with Booz Allen.  The government has "unlimited rights" and is releasing this software to increase the impact of government investments by providing developers with the opportunity to take things in new directions. The software use, modification, and distribution rights are stipulated within the [MIT] (http://choosealicense.com/licenses/mit/) license.  
 
 ###Pull Requests
